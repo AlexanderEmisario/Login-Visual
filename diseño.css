@@ -1,0 +1,15 @@
+h1{
+    font-family: Comic Sans MS;
+    font-size: 40px;
+    color: azure;
+}
+label{
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    color: azure;
+}
+input{
+    font-family: Comic Sans MS;
+    border-radius: 5px;
+    text-align: center;
+}
